@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Soundscape</string>
+    <string name="enable_wallpaper">Enable wallpaper</string>
+    <string name="contentdescription_promo_image">Image of the wallpaper</string>
+    <string name="microphone_permission_hint">Soundscape needs microphone access to generate the wave animation. No recording will be saved. The data is only used to generate the waveform.</string>
+</resources>
